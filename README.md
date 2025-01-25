@@ -60,6 +60,6 @@ Tools 🛠️
 
 Get in Touch 📡
 ---
-[![My Website.com](https://img.shields.io/badge/-Mywebsite.com-333333?style=for-the-badge&logo=astro&logoColor=white&labelColor=blue)]()
+[![My Website.com](https://img.shields.io/badge/-Mywebsite.com-333333?style=for-the-badge&logo=astro&logoColor=white&labelColor=blue)](https://jacobrosenlund.com)
 [![GitHub](https://img.shields.io/badge/-Jacob_Rosenlund-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/JacobRosenlund)\
 [![GitHub](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0jakemrosenlund@gmail.com%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71610)](mailto:contact.jakemrosenlund@gmail.com)
